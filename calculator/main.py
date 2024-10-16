@@ -32,7 +32,7 @@ def add(num):
         print(x)
         result_label.setText(x)
         result_label.text
-        
+
     else:
         # After an operator is selected, we are entering the second operand
         y += str(num)
